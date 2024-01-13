@@ -1,4 +1,4 @@
-### Gabriel Moraes
+# Gabriel Moraes
 
 **` Spatial Computing Developer `**
 
@@ -7,6 +7,13 @@
  When I'm not coding, you can find me practicing Jiu Jitsu, exploring the latest spatial computing advancements, tinkering with open-source projects, or simply enjoying the beauty of the real world (often with a healthy dose of augmented reality, of course!).
 
  Connect with me to discuss the future of spatial computing, collaborate on exciting projects, or just chat about the latest tech trends!
+
+ ## Tools
+
+ ## Lagugages
+ 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          
 
 Here are some ideas to get you started:
 
