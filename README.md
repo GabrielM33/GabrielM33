@@ -10,7 +10,7 @@ Leveraging my expertise in Unity, Xcode, C#, and Swift (though Python holds a sp
 Connect with me to discuss the future of spatial computing and AI, collaborate on exciting projects, or just chat about the latest tech trends!
 
 ### Tools
-**`Unity`** **`Xcode`** **`RealityKit`** **`XR Interaction Tool Kit`** **`Meta SDK`**  **`VisionOS SDK`** **`MRTK SDK`** **`Pytorch`** **`Git`**
+**`Unity`** **`Xcode`** **`RealityKit`** **`XR Interaction Tool Kit`** **`Meta SDK`**  **`VisionOS SDK`** **`Pytorch`** **`Git`**
 
 ### Languages
 **`C#`**  **`Swift`** **`Python`** **`SQL`**
