@@ -12,7 +12,7 @@
  ### Tools
  **`Unity`**  **`Xcode`**  **`Unreal Engine`** **`Pytorch`** **`Git`**
 
- ### Lagugages
+ ### Languages
  **`C#`**  **`Swift`** **`Python`** **`SQL`**
 
  ### Unity SDKs
