@@ -15,5 +15,5 @@ Connect with me to discuss the future of spatial computing, collaborate on excit
 ### Languages
 **`C#`**  **`Swift`** **`Python`** **`SQL`**
 
-### Unity SDKs
+### SDKs
 **`Meta`**  **`VisionOS`** **`MRTK`**
