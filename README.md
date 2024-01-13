@@ -10,7 +10,8 @@
  Connect with me to discuss the future of spatial computing, collaborate on exciting projects, or just chat about the latest tech trends!
 
  ### Tools
- **`Unity`**  **`Xcode`** **`Meta SDK`**  **`VisionOS SDK`** **`MRTK SDK`**  **`Unreal Engine`** **`Pytorch`** **`AWS`**  **`Git`**
+ **`Unity`**  **`Xcode`**  **`Unreal Engine`** **`Pytorch`** **`AWS`**  **`Git`**
+ **`Meta SDK`**  **`VisionOS SDK`** **`MRTK SDK`**
 
  ### Lagugages
  **`C#`**  **`Swift`** **`Python`** **`SQL`**
