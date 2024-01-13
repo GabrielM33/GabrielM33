@@ -13,4 +13,4 @@
  **`Unity`**  **`Xcode`**  **`Unreal Engine (Learning)`**  **`AWS`**  **`Git`**
 
  ### Lagugages
- **`Python`**  **`C#`**  **`Swift`**  **`SQL`**
+ **`C#`**  **`Swift`** **`Python`** **`SQL`**
