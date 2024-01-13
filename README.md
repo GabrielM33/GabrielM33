@@ -8,10 +8,10 @@
 
  Connect with me to discuss the future of spatial computing, collaborate on exciting projects, or just chat about the latest tech trends!
 
- ## Tools
+ ### Tools
  **`Unity`**  **`Xcode`**  **`Unreal Engine (Currently Learning)`**
 
- ## Lagugages
+ ### Lagugages
  **`Python`**  **`C#`**  **`Swift`**  **`SQL`**
 
 - 🔭 I’m currently working on ...
