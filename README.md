@@ -1,5 +1,5 @@
 # Gabriel Moraes
-*` Spatial Computing Developer `*
+**` Spatial Computing Developer `**
 
 ### Portfolio Website: https://www.gabrielmoraes.tech
 
