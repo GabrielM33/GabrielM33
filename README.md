@@ -14,6 +14,3 @@
 
  ### Lagugages
  **`C#`**  **`Swift`** **`Python`** **`SQL`**
-
- ### SDKs
- **`Meta SDK`**  **`VisionOS SDK`** 
