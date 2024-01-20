@@ -14,7 +14,7 @@ Connect with me to discuss the future of spatial computing and AI, collaborate o
 
 #
 
-### Languages
+### Languages and Tools
 
 <p
   
@@ -27,10 +27,5 @@ Connect with me to discuss the future of spatial computing and AI, collaborate o
       src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" />
 </p>
 
-<p
-  
-### Tools
-
 **`Unity`** **`Xcode`** **`RealityKit`** **`XR Interaction Tool Kit`** **`Meta SDK`**  **`VisionOS SDK`** **`Pytorch`** **`Git`**
 
-</p>
