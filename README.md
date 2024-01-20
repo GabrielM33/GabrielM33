@@ -14,14 +14,8 @@ Leveraging my expertise in Unity, Xcode, C#, and Swift, I'm constantly seeking i
 
 Connect with me to discuss the future of spatial computing and AI, collaborate on exciting projects, or just chat about the latest tech trends!
 
----
+-
 
-### Tools
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
-
-**`Unity`** **`Xcode`** **`RealityKit`** **`XR Interaction Tool Kit`** **`Meta SDK`**  **`VisionOS SDK`** **`Pytorch`** **`Git`**
 
 ### Languages
 
@@ -32,3 +26,7 @@ Connect with me to discuss the future of spatial computing and AI, collaborate o
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;"      
     src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" />
+
+### Tools
+
+**`Unity`** **`Xcode`** **`RealityKit`** **`XR Interaction Tool Kit`** **`Meta SDK`**  **`VisionOS SDK`** **`Pytorch`** **`Git`**
