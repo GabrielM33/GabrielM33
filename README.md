@@ -22,8 +22,6 @@ Connect with me to discuss the future of spatial computing and AI, collaborate o
 
 ### Languages and Tools
 
-<p
-  
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="left" alt="Java" width="30px" style="padding-right:10px;"
@@ -35,13 +33,11 @@ Connect with me to discuss the future of spatial computing and AI, collaborate o
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" 
       src="https://logowik.com/content/uploads/images/unity-new-20212110.jpg" />
   <img align="left" alt="Java" width="30px" style="padding-right:10px;"  
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />      
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />    
   <img  align="left" alt="Java" width="30px" style="padding-right:10px;"  
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />     
   <img align="left" alt="Java" width="30px" style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-          
-</p>
 
 **`Unity`** **`Xcode`** **`RealityKit`** **`XR Interaction Tool Kit`** **`Meta SDK`**  **`VisionOS SDK`** **`Pytorch`** **`Git`**
 
