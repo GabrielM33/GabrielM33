@@ -1,12 +1,8 @@
 ## Gabriel Moraes
 **` Spatial Computing Developer `**
 
- <p align="left">
-      <a href="https://gabrielmoraes.tech">
-         <img alt="Portfolio" title="Portfolio" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-
-<p align="center">
-  My Portfolio
+<p align="left">
+  ##My Portfolio
   <a href="https://gabrielmoraes.tech">
         <img align="center" alt="Portfolio" width="100px" style="padding-right:10px;" alt="Portfolio" title="##My Portfolio" src="https://img.icons8.com/dotty/80/portfolio.png" alt="portfolio"/>
   </a>
