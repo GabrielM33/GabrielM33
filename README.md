@@ -33,7 +33,7 @@ Connect with me to discuss the future of spatial computing and AI, collaborate o
   <img align="left" alt="Java" width="30px" style="padding-right:10px;"
       src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" />
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" 
-      src="https://store.unity.com/themes/store/images/unity-logo-store.svg" />
+      src="https://logowik.com/content/uploads/images/unity-new-20212110.jpg" />
   <img align="left" alt="Java" width="30px" style="padding-right:10px;"  
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />      
   <img  align="left" alt="Java" width="30px" style="padding-right:10px;"  
