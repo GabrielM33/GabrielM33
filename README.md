@@ -5,7 +5,7 @@
 
 <p align="left">
   <a href="https://gabrielmoraes.tech">
-    <img width="200" alt="Screenshot 2024-01-20 at 20 16 04" src="https://github.com/GabrielM33/GabrielM33/assets/123421871/561847c2-cb9a-499c-b856-71bd4804e8e8">
+    <img width="140" alt="Screenshot 2024-01-20 at 20 16 04" src="https://github.com/GabrielM33/GabrielM33/assets/123421871/561847c2-cb9a-499c-b856-71bd4804e8e8">
   </a>
 </p>
 
