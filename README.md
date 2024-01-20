@@ -14,8 +14,6 @@
 
 **Connect with me to discuss the future of spatial computing and AI, collaborate on exciting projects, or just chat about the latest tech trends!**
 
-#
-
 ### Languages and Tools
 
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" 
