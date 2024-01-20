@@ -14,9 +14,9 @@
 
 #
 
-### Leveraging my expertise in Unity, Xcode, C#, and Swift, I'm constantly seeking innovative ways to bridge the gap between the physical and digital worlds.
+**Leveraging my expertise in Unity, Xcode, C#, and Swift, I'm constantly seeking innovative ways to bridge the gap between the physical and digital worlds.**
 
-### Connect with me to discuss the future of spatial computing and AI, collaborate on exciting projects, or just chat about the latest tech trends!
+**Connect with me to discuss the future of spatial computing and AI, collaborate on exciting projects, or just chat about the latest tech trends!**
 
 #
 
