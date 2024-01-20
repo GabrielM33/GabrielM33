@@ -6,7 +6,7 @@
 <p align="center">
   
   <a href="https://gabrielmoraes.tech">
-        <img align="center" alt="Java" width="100px" style="padding-right:10px;" alt="Portfolio" title="##My Portfolio" src=""/></a>
+        <img align="center" alt="##Portfolio" width="100px" style="padding-right:10px;" alt="Portfolio" title="##My Portfolio" src=""/></a>
 </p>
 
 
