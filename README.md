@@ -24,6 +24,7 @@ Connect with me to discuss the future of spatial computing and AI, collaborate o
 <img align="left" alt="Java" width="30px" style="padding-right:10px;"      
     src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" />
     
+#
 
 ### Tools
 
