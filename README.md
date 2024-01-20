@@ -16,17 +16,16 @@ Connect with me to discuss the future of spatial computing and AI, collaborate o
 
 ### Languages
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;"      
-    src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" />
-
-    
-    
-#
+<p
+  
+  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
+  <img align="left" alt="Java" width="30px" style="padding-right:10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+  <img align="left" alt="Java" width="30px" style="padding-right:10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="left" alt="Java" width="30px" style="padding-right:10px;"      
+      src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" />
+</p>
 
 ### Tools
 
