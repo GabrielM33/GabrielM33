@@ -20,6 +20,7 @@ Connect with me to discuss the future of spatial computing and AI, collaborate o
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
+
 **`Unity`** **`Xcode`** **`RealityKit`** **`XR Interaction Tool Kit`** **`Meta SDK`**  **`VisionOS SDK`** **`Pytorch`** **`Git`**
 
 ### Languages
