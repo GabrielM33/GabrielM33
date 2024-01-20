@@ -1,12 +1,10 @@
 ## Gabriel Moraes
 **` Spatial Computing Developer `**
 
-### Portfolio Website: https://www.gabrielmoraes.tech
-
 <p align="center">
   
   <a href="https://gabrielmoraes.tech">
-        <img align="left" alt="Java" width="300px" style="padding-right:10px;" alt="Portfolio" title="My Portfolio" src="https://svgsilh.com/svg/1119298.svg"/></a>
+        <img align="center" alt="Java" width="100px" style="padding-right:10px;" alt="Portfolio" title="My Portfolio" src="https://svgsilh.com/svg/1119298.svg"/></a>
 </p>
 
 
