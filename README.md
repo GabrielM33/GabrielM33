@@ -10,8 +10,6 @@
   </a>
 </p>
 
-</p>
-
 #
 
 **Leveraging my expertise in Unity, Xcode, C#, and Swift, I'm constantly seeking innovative ways to bridge the gap between the physical and digital worlds.**
