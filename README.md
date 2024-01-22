@@ -1,7 +1,6 @@
 # Gabriel Moraes 
-  
-### **` Spatial Computing Developer `**
-
+**` Spatial Computing Developer `**
+#
 
 <p align="center">
   <a href="https://gabrielmoraes.tech">
@@ -9,9 +8,11 @@
   </a>
 </p>
 
-**Leveraging my expertise in Unity, Xcode, C#, and Swift, I'm constantly seeking innovative ways to bridge the gap between the physical and digital worlds.**
+Leveraging my expertise in Unity, Xcode, C#, and Swift, I'm constantly seeking innovative ways to bridge the gap between the physical and digital worlds.
 
-**Connect with me to discuss the future of spatial computing and AI, collaborate on exciting projects, or just chat about the latest tech trends!**
+Connect with me to discuss the future of spatial computing and AI, collaborate on exciting projects, or just chat about the latest tech trends!
+
+#
 
 ### Languages and Tools
 
@@ -37,6 +38,8 @@
      
   <img align="left" alt="Java" width="30px" style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+
 
 
 **`RealityKit`** **`XR Interaction Tool Kit`** **`Meta SDK`**  **`VisionOS SDK`** **`Pytorch`**
