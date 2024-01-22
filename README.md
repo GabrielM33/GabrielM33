@@ -5,10 +5,9 @@
 
 <p align="left">
   <a href="https://gabrielmoraes.tech">
-    <img width="150" alt="Screenshot 2024-01-20 at 20 16 04" src="https://github.com/GabrielM33/GabrielM33/assets/123421871/561847c2-cb9a-499c-b856-71bd4804e8e8">
+   <img width="150" alt="![Portfolio]" src="https://github.com/GabrielM33/GabrielM33/assets/123421871/bcef66d8-92fd-4311-ab3d-8bc53552d07c">
   </a>
 </p>
-
 
 **Leveraging my expertise in Unity, Xcode, C#, and Swift, I'm constantly seeking innovative ways to bridge the gap between the physical and digital worlds.**
 
