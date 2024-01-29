@@ -1,5 +1,5 @@
 ## Gabriel Moraes  
-**` Spatial Computing Developer `**
+**` Spatial Computing Developer `** ()
 
 <p align="center">
   <a href="https://gabrielmoraes.tech">
@@ -7,7 +7,7 @@
   </a>
 </p>
 
-Leveraging my expertise in Unity, C#, and Swift, I'm constantly seeking innovative ways to bridge the gap between the physical and digital worlds. Connect with me to discuss the future of spatial computing and AI, collaborate on exciting projects, or just chat about the latest tech trends!
+Leveraging my expertise in Unity, C#, and Swift, I'm constantly seeking innovative ways to bridge the gap between the physical and digital worlds. Connect with me to discuss the future of spatial computing and AI, collaborate on exciting projects, or just chat about the latest tech trends! ()
 
 #
 
