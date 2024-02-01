@@ -8,11 +8,11 @@ Leveraging my expertise in Unity, C#, and Swift, I'm constantly seeking innovati
 &nbsp;
 
 <p align="center">
-  <a href="https://gabrielmoraes.tech">
+  <a href="https://gabrielmoraes.tech" style="margin-right: 20px;">
    <img width="180" alt="Screenshot 2024-02-01 at 12 50 46" src="https://github.com/GabrielM33/GabrielM33/assets/123421871/1e4df844-14e3-4e92-831a-7021a1b15f3d">
   </a>
   
-   <a href="https://linkedin.com/in/g-moraes">
+   <a href="https://linkedin.com/in/g-moraes" style="margin-right: 20px;">
    <img width="180" alt="Screenshot 2024-02-01 at 12 50 58" src="https://github.com/GabrielM33/GabrielM33/assets/123421871/1f383e84-ce9b-45f8-90c1-d5a45afec8a9">
   </a>
   
@@ -20,6 +20,8 @@ Leveraging my expertise in Unity, C#, and Swift, I'm constantly seeking innovati
    <img width="180" alt="Screenshot 2024-02-01 at 12 51 09" src="https://github.com/GabrielM33/GabrielM33/assets/123421871/9e894f95-2086-4c3b-8a86-7e2fe78bbb06">
   </a>
 </p>
+
+
 
 #
 
