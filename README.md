@@ -5,7 +5,7 @@
 
 Leveraging my expertise in Unity, C#, and Swift, I'm constantly seeking innovative ways to bridge the gap between the physical and digital worlds. Connect with me to discuss the future of spatial computing and AI, collaborate on exciting projects, or just chat about the latest tech trends!
 
-Check out all [Spatial Computing](https://github.com/stars/GabrielM33/lists/xr-projects) and [Machine Learning](https://github.com/stars/GabrielM33/lists/ml-projects)) Projects I have built.
+Check out all [Spatial Computing | XR](https://github.com/stars/GabrielM33/lists/xr-projects) and [Machine Learning](https://github.com/stars/GabrielM33/lists/ml-projects) Projects I have worked on.
 
 &nbsp;
 
