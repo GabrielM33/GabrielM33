@@ -1,5 +1,5 @@
 ## Gabriel Moraes  
-**` Spatial Computing/XR Developer `**
+**` Spatial Computing Developer `**
 
 &nbsp;
 
