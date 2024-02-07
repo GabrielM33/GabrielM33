@@ -23,7 +23,7 @@ Leveraging my expertise in Unity, C#, and Swift, I'm constantly seeking innovati
 
 &nbsp;
 
-Check out all  [Spatial Computing/XR](https://github.com/stars/GabrielM33/lists/xr-projects) and [Machine Learning](https://github.com/stars/GabrielM33/lists/ml-projects) Projects I have worked on.
+Check out all  [Spatial Computing/XR](https://github.com/stars/GabrielM33/lists/xr-projects) and [Machine Learning](https://github.com/stars/GabrielM33/lists/ml-projects) projects I have worked on.
 
 #
 
