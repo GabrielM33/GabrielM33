@@ -36,7 +36,10 @@ Check out all  [Spatial Computing/XR](https://github.com/stars/GabrielM33/lists/
   <img align="left" alt="Java" width="30px" style="padding-right:10px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
   <img align="left" alt="Java" width="30px" style="padding-right:10px;"  
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />     
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" /> 
+
+
+      
   <img align="left" alt="Java" width="30px" style="padding-right:10px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
