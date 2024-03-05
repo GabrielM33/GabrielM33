@@ -62,4 +62,4 @@ Check out all  [Spatial Computing/XR](https://github.com/stars/GabrielM33/lists/
 
 
 
-**`Meta SDK`** **`XR Interaction Toolkit`** **`VisionOS SDK`** **`RealityKit`** **`Pytorch`**
+**`Meta SDK`** **`XR Interaction Toolkit`** **`PolySpatial SDK`** **`RealityKit`**
