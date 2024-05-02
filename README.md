@@ -33,11 +33,6 @@ Leveraging my expertise in Unity and C#, I'm constantly seeking innovative ways 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="left" alt="Java" width="30px" style="padding-right:10px;"  
     src=https://github.com/GabrielM33/GabrielM33/assets/123421871/21996532-4d33-424e-91f9-427095251d6e) />
-  <img align="left" alt="Java" width="30px" style="padding-right:10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
-  <img align="left" alt="Java" width="30px" style="padding-right:10px;"  
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" /> 
-
 
       
   <img align="left" alt="Java" width="30px" style="padding-right:10px;"
