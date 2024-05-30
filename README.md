@@ -15,10 +15,6 @@ Leveraging my expertise in Unity and C#, I'm constantly seeking innovative ways 
    <a href="https://linkedin.com/in/g-moraes">
    <img width="180" alt="Screenshot 2024-02-01 at 12 50 58" src="https://github.com/GabrielM33/GabrielM33/assets/123421871/1f383e84-ce9b-45f8-90c1-d5a45afec8a9">
   </a>
-
-   <a href="https://discord.com/users/gabrielm33">
-   <img width="180" alt="Screenshot 2024-02-01 at 12 51 09" src="https://github.com/GabrielM33/GabrielM33/assets/123421871/9e894f95-2086-4c3b-8a86-7e2fe78bbb06">
-  </a>
 </p>
 
 &nbsp;
