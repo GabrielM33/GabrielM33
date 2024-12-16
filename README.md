@@ -1,5 +1,5 @@
 ## Gabriel Moraes  
-**`Currently building agentic workflows with LangChain and n8n`**
+**`Currently building agentic workflows with LangGraph and n8n`**
 
 &nbsp;
 
@@ -21,5 +21,3 @@ Connect with me to discuss startup ideas, the future of spatial computing and AI
 
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-
-**`Meta SDK`** **`XR Interaction Toolkit`** **`PolySpatial`** **`RealityKit`**
