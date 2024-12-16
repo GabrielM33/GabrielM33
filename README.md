@@ -1,5 +1,5 @@
 ## Gabriel Moraes  
-**`Currently building agentic workflows`**
+**`Currently building agentic workflows with LangChain and n8n`**
 
 &nbsp;
 
