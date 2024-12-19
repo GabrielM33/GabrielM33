@@ -1,5 +1,5 @@
 ## Gabriel Moraes  
-**`Currently building agentic workflows with LangGraph and n8n`**
+**`Currently multi-agent systems with LangGraph and n8n`**
 
 &nbsp;
 
